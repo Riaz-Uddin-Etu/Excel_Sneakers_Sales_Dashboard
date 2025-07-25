@@ -47,6 +47,11 @@ Contains details like product name, brand, category, edition, release date, and 
 
 ![Dashboard Preview](dashboard_preview.png)
 ![Sales metrics over time](Sales_metrics_over_time.png)
+![Revenue_trend_line](Revenue_trend_line.png)
+![Revenue_by_product_type](Revenue_by_product_type.png)
+![Quarterly_total_sold](Quarterly_total_sold.png)
+![10_most_profitable_sneakers](10_most_profitable_sneakers.png)
+![Gender_distribution](Gender_distribution.png)
 ---
 
 ## 📌 Status
