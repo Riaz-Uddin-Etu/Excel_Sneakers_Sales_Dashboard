@@ -45,7 +45,7 @@ Contains details like product name, brand, category, edition, release date, and 
 
 ## 📸 Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![dashboard preview](dashboard_preview.png)
 ![Sales metrics over time](Sales_metrics_over_time.png)
 ![Revenue_trend_line](Revenue_trend_line.png)
 ![Revenue_by_product_type](Revenue_by_product_type.png)
