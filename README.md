@@ -46,7 +46,7 @@ Contains details like product name, brand, category, edition, release date, and 
 ## 📸 Preview
 
 ![Dashboard Preview](dashboard_preview.png)
-
+![Sales metrics over time](Sales_metrics_over_time.png)
 ---
 
 ## 📌 Status
