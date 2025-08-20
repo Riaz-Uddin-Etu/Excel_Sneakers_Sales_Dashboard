@@ -45,13 +45,13 @@ Contains details like product name, brand, category, edition, release date, and 
 
 ## 📸 Preview
 
-![dashboard preview](dashboard_preview_v2.png)
-![Sales metrics over time](Sales_metrics_over_time.png)
-![Revenue_trend_line](Revenue_trend_line.png)
-![Revenue_by_product_type](Revenue_by_product_type.png)
-![Quarterly_total_sold](Quarterly_total_sold.png)
-![10_most_profitable_sneakers](10_most_profitable_sneakers.png)
-![Gender_distribution](Gender_distribution.png)
+![dashboard preview](images/dashboard_preview_v2.png)
+![Sales metrics over time](images/Sales_metrics_over_time.png)
+![Revenue_trend_line](images/Revenue_trend_line.png)
+![Revenue_by_product_type](images/Revenue_by_product_type.png)
+![Quarterly_total_sold](images/Quarterly_total_sold.png)
+![10_most_profitable_sneakers](images/10_most_profitable_sneakers.png)
+![Gender_distribution](images/Gender_distribution.png)
 ---
 
 ## 📌 Status
