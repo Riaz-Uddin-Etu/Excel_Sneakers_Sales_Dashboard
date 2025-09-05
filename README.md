@@ -28,7 +28,7 @@ Contains details like product name, brand, category, edition, release date, and 
 ## 🛠 Tools Used
 
 - Microsoft Excel (Pivot Table, Slicers, Charts)
-- Power Query (optional)
+- Power Query
 
 ---
 
